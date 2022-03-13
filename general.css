@@ -11,7 +11,7 @@
     margin: 0 auto;
 }
 
-.grid {
+.grid {abc
     display: grid;
     column-gap: 6.4rem;
     row-gap: 9.6rem;
